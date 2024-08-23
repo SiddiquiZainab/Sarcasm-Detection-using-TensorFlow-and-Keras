@@ -38,8 +38,9 @@ The model was trained using a binary cross-entropy loss function and the Adam op
 
 ## Results
 
-Sentence: "poor man becomes PM" | Prediction: 0.8487 (Sarcastic)
-Sentence: "This session was amazing" | Prediction: 0.0362 (Non-Sarcastic)
+**Sentence**: "poor man becomes PM" | Prediction: 0.8487 (Sarcastic)
+
+**Sentence**: "This session was amazing" | Prediction: 0.0362 (Non-Sarcastic)
 
 ## Applications
 
