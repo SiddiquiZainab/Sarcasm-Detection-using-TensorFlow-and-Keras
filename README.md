@@ -54,4 +54,4 @@ The model was trained using a binary cross-entropy loss function and the Adam op
 - **Legal and Forensic Analysis:** Assist in e-discovery and cybersecurity investigations.
 
 ## Contact
-- LinkedIn: [Zainab Siddiqui](#https://www.linkedin.com/in/siddiquizainab/)
+- LinkedIn: [Zainab Siddiqui][#https://www.linkedin.com/in/siddiquizainab/]
